@@ -1,0 +1,8 @@
+.h1{
+    animation-duration: 2s;
+    animation-timing-function: ease;
+    animation-iteration-count: infinite;
+}
+.h2{
+    display: none;
+}
